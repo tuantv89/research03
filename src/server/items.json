@@ -1,0 +1,50 @@
+{
+    "iphone11": {
+        "name": "iphone 11",
+        "price": 1,
+        "description": "ip 11 pro max",
+        "quantity": 0
+    },
+    "ipad": {
+        "name": "ipad",
+        "price": 1,
+        "description": "ipad",
+        "quantity": 5
+    },
+    "samsung": {
+        "name": "samsung",
+        "price": 1,
+        "description": "samsung",
+        "quantity": 5
+    },
+    "xiaomi": {
+        "name": "xiaomi",
+        "price": 1,
+        "description": "xiaomi",
+        "quantity": 5
+    },
+    "opplo": {
+        "name": "oppo",
+        "price": 1,
+        "description": "poop",
+        "quantity": 5
+    },
+    "realme": {
+        "name": "realme",
+        "price": 1,
+        "description": "realme",
+        "quantity": 5
+    },
+    "asus": {
+        "name": "asus",
+        "price": 1,
+        "description": "asus",
+        "quantity": 5
+    },
+    "vivo": {
+        "name": "vivo",
+        "price": 1,
+        "description": "vivo",
+        "quantity": 5
+    }
+}
